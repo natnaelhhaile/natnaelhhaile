@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/cur10usityDrives?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/cur10usityDrives?style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=cur10usityDrives)
+![Profile views](https://komarev.com/ghpvc/?username=cur10usityDrives&color=blueviolet&style=flat)
 
 ## 🚀 About Me
 I'm passionate about **cybersecurity**, **digital forensics**, **web development**, and **machine learning/AI**. With a strong background in these areas, I’m constantly exploring new technologies and methodologies to enhance my skill set.
