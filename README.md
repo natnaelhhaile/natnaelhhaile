@@ -14,7 +14,7 @@ I'm passionate about **cybersecurity**, **digital forensics**, **web development
 ## 🛠️ Skills and Expertise
 - **Cybersecurity:** ![Penetration testing](https://img.shields.io/badge/-Penetration%20Testing-blue), ![Network security](https://img.shields.io/badge/-Network%20Security-blue), ![Threat analysis](https://img.shields.io/badge/-Threat%20Analysis-blue)
 - **Digital Forensics:** ![Incident response](https://img.shields.io/badge/-Incident%20Response-blue), ![Data recovery](https://img.shields.io/badge/-Data%20Recovery-blue), ![Forensic analysis](https://img.shields.io/badge/-Forensic%20Analysis-blue)
-- **Web Development:** ![HTML](https://img.shields.io/badge/-HTML-orange), ![CSS](https://img.shields.io/badge/-CSS-blue), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow), ![ReactJS](https://img.shields.io/badge/-ReactJS-blue), ![Node.js](https://img.shields.io/badge/-Node.js-green), ![Php](https://img.shields.io/badge/-Php-8A2BE2)
+- **Web Development:** ![HTML](https://img.shields.io/badge/-HTML-orange), ![CSS](https://img.shields.io/badge/-CSS-72962e), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow), ![ReactJS](https://img.shields.io/badge/-ReactJS-blue), ![Node.js](https://img.shields.io/badge/-Node.js-green),![Flask](https://img.shields.io/badge/-Flask-efc3d2), ![Php](https://img.shields.io/badge/-Php-8A2BE2)
 - **Machine Learning:** ![Python](https://img.shields.io/badge/-Python-yellow), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange), ![NLP](https://img.shields.io/badge/-NLP-red)
 - **Cloud Computing:** ![GCP](https://img.shields.io/badge/-GCP-orange), ![Cloud security](https://img.shields.io/badge/-Cloud%20Security-purple)
 
