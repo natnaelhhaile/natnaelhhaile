@@ -19,7 +19,7 @@ I'm passionate about **cybersecurity**, **digital forensics**, **web development
 - **Digital Forensics:** ![Incident response](https://img.shields.io/badge/-Incident%20Response-blue) ![Data recovery](https://img.shields.io/badge/-Data%20Recovery-blue) ![Forensic analysis](https://img.shields.io/badge/-Forensic%20Analysis-blue)
 
 ## 📂 Projects
-Refer to my repositories for projects I have been working on.
+Refer to my pinned repos for projects I have been working on.
 
 ## 📫 Get in Touch
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natuhabtemicael1415@gmail.com)
