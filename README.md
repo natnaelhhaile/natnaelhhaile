@@ -17,14 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[natnael-haile-b35674207](https://www.linkedin.com/in/natnael-haile-b35674207/)" target="_blank">
+  <a href="https://www.linkedin.com/in/natnael-haile-b35674207/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-haile-b35674207/" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/cur10usitydrives" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cur10usitydrives" height="30" width="40" />
-  </a>
-  <a href="mailto:natuhabtemicael1415@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="50" />
   </a>
 </p>
 
