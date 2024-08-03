@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natnael</h1>
+<h1 align="center">Hi 👋, I'm Natnael.</h1>
 <h3 align="center">A passionate software engineer with strong background in cybersecurity, digital forensics, and machine learning/AI.</h3>
 
 <p align="left"> 
