@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Natnael</h1>
 <h3 align="center">A passionate software engineer with strong background in cybersecurity, digital forensics, and machine learning/AI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cur10usitydrives&label=Profile%20views&color=0e75b6&style=flat" alt="cur10usitydrives" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=cur10usitydrives&label=Profile%20views&color=0e75b6&style=flat" alt="cur10usitydrives" /> 
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cur10usitydrives&show_icons=true&locale=en&layout=compact" alt="cur10usitydrives" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cur10usitydrives&show_icons=true&locale=en&layout=compact" alt="cur10usitydrives" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cur10usitydrives&" alt="cur10usitydrives" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cur10usitydrives&" alt="cur10usitydrives" />
+</p>
 
 - 🌱 I’m currently learning **machine learning, natural language processing (NLP), and large language models (LLMs).**
 
@@ -13,9 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/natnael-haile-b35674207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-haile-b35674207/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cur10usitydrives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cur10usitydrives" height="30" width="40" /></a>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natuhabtemicael1415@gmail.com)
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/natnael-haile-b35674207/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-haile-b35674207/" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/cur10usitydrives" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cur10usitydrives" height="30" width="40" />
+  </a>
+  <a href="mailto:natuhabtemicael1415@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="50" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
