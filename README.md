@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/natnael-haile-b35674207/" target="_blank">
+  <a href="https://www.linkedin.com/in/natnael-haile-b35674207/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-haile-b35674207/" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/cur10usitydrives" target="_blank">
+  <a href="https://www.leetcode.com/cur10usitydrives" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cur10usitydrives" height="30" width="40" />
   </a>
 </p>
