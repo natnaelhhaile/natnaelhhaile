@@ -2,13 +2,13 @@
 <h3 align="center">A passionate software engineer with strong background in cybersecurity, digital forensics, and machine learning/AI.</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=curiousitydrives&label=Profile%20views&color=0e75b6&style=flat" alt="curiousitydrives" /> 
+  <img src="https://komarev.com/ghpvc/?username=curiousityDrives&label=Profile%20views&color=0e75b6&style=flat" alt="curiousityDrives" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousitydrives&show_icons=true&locale=en&layout=compact" alt="curiousitydrives" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousityDrives&show_icons=true&locale=en&layout=compact" alt="curiousityDrives" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiousitydrives&" alt="curiousitydrives" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiousityDrives&" alt="curiousityDrives" />
 </p>
 
 - 🌱 I’m currently learning **machine learning, natural language processing (NLP), and large language models (LLMs).**
