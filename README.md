@@ -2,13 +2,13 @@
 <h3 align="center">A passionate software engineer with strong background in cybersecurity, digital forensics, and machine learning/AI.</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=cur10usitydrives&label=Profile%20views&color=0e75b6&style=flat" alt="cur10usitydrives" /> 
+  <img src="https://komarev.com/ghpvc/?username=curiousitydrives&label=Profile%20views&color=0e75b6&style=flat" alt="curiousitydrives" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cur10usitydrives&show_icons=true&locale=en&layout=compact" alt="cur10usitydrives" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousitydrives&show_icons=true&locale=en&layout=compact" alt="curiousitydrives" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cur10usitydrives&" alt="cur10usitydrives" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiousitydrives&" alt="curiousitydrives" />
 </p>
 
 - 🌱 I’m currently learning **machine learning, natural language processing (NLP), and large language models (LLMs).**
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/natnael-haile-b35674207/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/natihhaile/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-haile-b35674207/" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/cur10usitydrives" target="_blank" rel="noopener noreferrer">
@@ -37,7 +37,7 @@
 
 
 <!---
-cur10usityDrives/cur10usityDrives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+curiousitydrives/cur10usityDrives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
