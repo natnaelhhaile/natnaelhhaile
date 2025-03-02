@@ -2,13 +2,13 @@
 <h3 align="center">A passionate software engineer with strong background in cybersecurity, digital forensics, and machine learning/AI.</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=curiousityDrives&label=Profile%20views&color=0e75b6&style=flat" alt="curiousityDrives" /> 
+  <img src="https://komarev.com/ghpvc/?username=natnaelhhaile&label=Profile%20views&color=0e75b6&style=flat" alt="curiousityDrives" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousityDrives&show_icons=true&locale=en&layout=compact" alt="curiousityDrives" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaelhhaile&show_icons=true&locale=en&layout=compact" alt="curiousityDrives" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curiousityDrives&" alt="curiousityDrives" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelhhaile&" alt="curiousityDrives" />
 </p>
 
 - 🌱 I’m currently learning **machine learning, natural language processing (NLP), and large language models (LLMs).**
@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/natihhaile/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-haile-b35674207/" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/natnaelhhaile/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnaelhhaile" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/cur10usitydrives" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cur10usitydrives" height="30" width="40" />
+  <a href="https://www.leetcode.com/natnaelhhaile" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="natnaelhhaile" height="30" width="40" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 
 <!---
-curiousitydrives/cur10usityDrives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+natnaelhhaile/natnaelhhaile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
