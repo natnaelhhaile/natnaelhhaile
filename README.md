@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaelhhaile&show_icons=true&locale=en&layout=compact" alt="curiousityDrives" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaelhhaile&show_icons=true&locale=en&layout=compact" alt="natnaelhhaile" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelhhaile&" alt="curiousityDrives" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=natnaelhhaile" alt="GitHub Streak" /></a>
 </p>
 
 - 🌱 I’m currently learning **machine learning, natural language processing (NLP), and large language models (LLMs).**
