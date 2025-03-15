@@ -15,7 +15,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=natnaelhhaile&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=natnaelhhaile&theme=merko&hide_border=false&include_all_commits=false&count_private=true)&nbsp;
 ![](https://nirzak-streak-stats.vercel.app/?user=natnaelhhaile&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelhhaile&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
