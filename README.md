@@ -5,12 +5,12 @@
 
 
 ## 🌐 Socials:
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natnaelhhaile) &nbsp; -->
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natnaelhhaile) &nbsp;-->
 <p align="left" dir="auto">
     <a href="https://linkedin.com/in/natnaelhhaile" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnaelhhaile" height="30" width="40" style="max-width: 100%;">
     </a>
-    <a href="https://www.leetcode.com/natnaelhhaile" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="natnaelhhaile" height="30" width="40" style="max-width: 100%;">
-    </a>
+    <!-- <a href="https://www.leetcode.com/natnaelhhaile" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="natnaelhhaile" height="30" width="40" style="max-width: 100%;">
+    </a> -->
 </p>
 
 # 💻 Tech Stack:
