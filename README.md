@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natnael.</h1>
 <!-- <h3 align="center">A passionate software engineer with strong background in cybersecurity, digital forensics, and machine learning/AI.</h3> -->
 
-🚀 Software Engineer | AI Enthusiast | Cybersecurity Graduate | Problem Solver<br><br>🔹 Passionate about building intelligent, data-driven applications<br>🔹 Experienced in Full-Stack Development, AI/ML, and Cloud Computing<br>🔹 Love working on Generative AI, Cybersecurity, and Scalable Systems<br><br>💡 Always exploring new technologies and sharing my learnings!<br>📌 Check out my projects and let's collaborate!
+🚀 Network Engineer | AI & Software Enthusiast | Cybersecurity Graduate | Problem Solver<br><br>🔹 Passionate about building intelligent, data-driven applications<br>🔹 Experienced in Full-Stack Development, AI/ML, and Cloud Computing<br>🔹 Love working on Generative AI, Cybersecurity, and Scalable Systems<br><br>💡 Always exploring new technologies and sharing my learnings!<br>📌 Check out my projects and let's collaborate!
 
 
 ## 🌐 Socials:
